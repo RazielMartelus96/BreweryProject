@@ -10,7 +10,7 @@ Tags: [[brewery]]
 - [[Interface Philosophy]]
 - [[Javadoc Requirements]]
 - [[Road Map]]
-- 
+- [[Managers]]
 - 
 
 # References
