@@ -9,5 +9,8 @@ I believe if this is done we should interface out the logic to a composite "Brew
 
 On top of that clear documentation for Spigot servers should be made. 
 
+*i.e. a warning to spigot users to inform them of the potential performance loss*
+
+
 # References
 [PaperLib Github Repo](https://github.com/PaperMC/PaperLib)
