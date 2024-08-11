@@ -8,5 +8,6 @@ Tags:
 - [[Git Workflow]]
 - [[Documentation and JavaDocs]]
 - [[Use of Static Methods and Fields]]
+- [[Use of InventoryHolder]]
 
 # References
