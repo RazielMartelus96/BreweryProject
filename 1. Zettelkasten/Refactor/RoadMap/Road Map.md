@@ -4,11 +4,11 @@ Tags:
 
 # Core Contents Page
 ## Contents
-- [[Reduction Of Hard Implementations]]
-- [[Removal of All Unnecessary Static Solutions]]
+- [[Reduction Of Hard Impls]]
+- [[Reduce Static Solutions]]
 - [[Config Reformatting]]
-- [[Logging System Implementation]]
+- [[Logging System Impl]]
 - [[Tickable Cache]]
-- [[Concurrency-Aware Multi-threading]]
+- [[Multi-Threading Refactor]]
 
 # References

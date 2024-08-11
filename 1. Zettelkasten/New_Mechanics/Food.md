@@ -1,6 +1,6 @@
 24202408080624
 Status: #idea
-Tags: [[New Mechanics]]
+Tags:
 
 # Core Contents Page
 ## Contents
