@@ -4,6 +4,6 @@ Tags: [[Templates]]
 
 # Core Contents Page
 ## Contents
-- 
+- [[Test Contents Item]]
 
 # References
